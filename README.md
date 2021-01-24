@@ -12,11 +12,30 @@ When comparing the results of 2017 and 2018, there were more positive returns in
 
 AY and SPWR were of the few to not have dropped so much from 2017 to 2018, however DQ and VSLR for example, dropped significantly. This is a good pointer for Steve to advise on where investments should and should not be made.
 
+![](Resources/VBA_Challenge_2017.png)
+
+![](Resources/VBA_Challenge_2018.png)
+
+
 ## Original vs. Refactored Script
 
 Furthermore, when taking a look at the difference between the original module code to the refactored script, significant improvement was noted between the amount of seconds to run the stock analysis. 
 
 When running the original code for the 2017 stock analysis, VBA in Excel would notify us that it took 0.0578125 seconds to run the code. The refactored 2017 code ran in 0.109375 seconds. In addition, the original code in the 2018 analysis ran in 0.578125 seconds and the refactored 2018 analysis code ran through in 0.140625. Therefore, there was a vast amount of improvement in the time it took to loop through the code for both 2017 and 2018 when comparing the original vs. refactored code. 
+
+Below are screenshots of both 2017 and 2018 original and refactored results for the amount of seconds to loop through the code and perform the analysis.
+
+![](Resources/2017 original.png)
+
+
+![](Resources/2017 refactored.png)
+
+
+![](Resources/2018 original.png)
+
+
+![](Resources/2018 refactored.png)
+
 
 The line of code in 2b that looped over all the rows in the spreadsheet:
  
