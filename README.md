@@ -22,15 +22,30 @@ AY and SPWR were of the few to not have dropped so much from 2017 to 2018, howev
 Furthermore, when taking a look at the difference between the original module code to the refactored script, significant improvement was noted between the amount of seconds to run the stock analysis. 
 
 When running the original code for the 2017 stock analysis, VBA in Excel would notify us that it took 0.0578125 seconds to run the code. 
+
 ![](Resources/2017_original.png)
 
+
+
+
+
 The refactored 2017 code ran in 0.109375 seconds.
+
 ![](Resources/2017_refactored.png)
 
+
+
+
+
 In addition, the original code in the 2018 analysis ran in 0.578125 seconds.
+
 ![](Resources/2018_original.png)
 
+
+
+
 The refactored 2018 analysis code ran through in 0.140625. 
+
 ![](Resources/2018_refactored.png)
 
 Therefore, there was a vast amount of improvement in the time it took to loop through the code for both 2017 and 2018 when comparing the original vs. refactored code. 
