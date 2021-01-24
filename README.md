@@ -44,7 +44,7 @@ In addition, the original code in the 2018 analysis ran in 0.578125 seconds.
 
 
 
-The refactored 2018 analysis code ran through in 0.140625. 
+The refactored 2018 analysis code ran through in 0.140625 seconds. 
 
 ![](Resources/2018_refactored.png)
 
