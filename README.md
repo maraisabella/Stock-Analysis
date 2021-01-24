@@ -1,1 +1,1 @@
-# stocks-analysis
+# stock-analysis
