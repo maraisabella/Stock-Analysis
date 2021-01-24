@@ -6,13 +6,13 @@ In this stock analysis project, the goal was to refactor the VBA module code to 
 
 # Results
 
-## 2017 Stocks VS. 2018 Stocks
+## 2017 Stocks vs. 2018 Stocks
 
 When comparing the results of 2017 and 2018, there were more positive returns in 2017. In 2018, the only high returns were ENPH and RUN whereas in 2017, the only negative return was TERP. These results were simplified and easy to view for people like Steve because of the red and green color features. 
 
 AY and SPWR were of the few to not have dropped so much from 2017 to 2018, however DQ and VSLR for example, dropped significantly. This is a good pointer for Steve to advise on where investments should and should not be made.
 
-## Original VS. Refactored Script
+## Original vs. Refactored Script
 
 Furthermore, when taking a look at the difference between the original module code to the refactored script, significant improvement was noted between the amount of seconds to run the stock analysis. 
 
