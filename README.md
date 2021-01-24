@@ -62,8 +62,8 @@ All in all, through this module's exercise for stock analysis, it was clear that
 
 ## Advantages
 
-Refactoring code enables more data to be covered in a shorter amount of time, which is a positive thing when trying to be more time conscious and conservative with resources as well as storage. When dealing with original code, although it is more "step by step" and developed with greater ease, it can in the same way also be not as efficient since it will be longer. 
+Refactoring code enables more data to be covered in a shorter amount of time, which is a positive thing when trying to be more time conscious and conservative with resources, specifically storage. When dealing with original code, although it is more "step by step" and developed with greater ease, it can in the same way also be not as efficient since it will be longer. 
 
-## Disadvantage
+## Disadvantages
 
-Since refactored code is a condensed version of original, longer code, it may be difficult to understand explanation for why certain things may be shortened or even ommited. There is a certain level of understanding necessary for developing refactored code, which in the long run could take longer when trying to figure out how to adapt original code to refactored as opposed to the time it may have taken simply running original code. 
+Since refactored code is a condensed version of original, longer code, it may be difficult to understand explanation for why certain things are shortened or even ommited. Comments throughout this code explaining steps is essential to avoid this disadvantage affecting overall performance. There is a certain level of understanding necessary for developing refactored code, which in the long run could take longer when trying to figure out how to adapt original code to refactored as opposed to the time it may have taken simply running original code. 
