@@ -12,6 +12,11 @@ When comparing the results of 2017 and 2018, there were more positive returns in
 
 AY and SPWR were of the few to not have dropped so much from 2017 to 2018, however DQ and VSLR for example, dropped significantly. This is a good pointer for Steve to advise on where investments should and should not be made.
 
+![](resources/VBA_Challenge_2017.png)
+
+![](resources/VBA_Challenge_2018.png)
+
+
 ## Original vs. Refactored Script
 
 Furthermore, when taking a look at the difference between the original module code to the refactored script, significant improvement was noted between the amount of seconds to run the stock analysis. 
