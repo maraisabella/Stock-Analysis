@@ -20,7 +20,7 @@ When running the original code for the 2017 stock analysis, VBA in Excel would n
 
 The line of code in 2b that looped over all the rows in the spreadsheet:
  
- ## For i = 2 To RowCount
+  For i = 2 To RowCount
  
 was critical in the process of refactoring the code, because all in all helped increase the time taken for VBA to run through all the lines being taken into account for final calculations. 
 
